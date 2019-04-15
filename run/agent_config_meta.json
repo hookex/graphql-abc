@@ -1,0 +1,277 @@
+{
+  "sequelize": {
+    "dialect": "/Users/huxiaohui/hooke/graphql-abc/config/config.default.js",
+    "database": "/Users/huxiaohui/hooke/graphql-abc/config/config.default.js",
+    "host": "/Users/huxiaohui/hooke/graphql-abc/config/config.default.js",
+    "port": "/Users/huxiaohui/hooke/graphql-abc/config/config.default.js",
+    "username": "/Users/huxiaohui/hooke/graphql-abc/config/config.default.js",
+    "password": "/Users/huxiaohui/hooke/graphql-abc/config/config.default.js"
+  },
+  "proxyworker": {
+    "port": "/Users/huxiaohui/hooke/graphql-abc/config/config.default.js",
+    "wsPort": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-development-proxyworker/config/config.default.js"
+  },
+  "middleware": "/Users/huxiaohui/hooke/graphql-abc/config/config.default.js",
+  "security": {
+    "csrf": {
+      "ignore": "/Users/huxiaohui/hooke/graphql-abc/config/config.default.js",
+      "enable": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-security/config/config.default.js"
+    },
+    "domainWhiteList": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-security/config/config.default.js",
+    "xframe": {
+      "enable": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "keys": "/Users/huxiaohui/hooke/graphql-abc/config/config.default.js",
+  "session": {
+    "maxAge": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-multipart/config/config.default.js"
+  },
+  "development": {
+    "watchDirs": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-view/config/config.default.js"
+  },
+  "graphql": {
+    "router": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg-graphql/config/config.default.js"
+  },
+  "env": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+  "name": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+    "version": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+    "description": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+    "private": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "dataloader": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "egg": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "egg-development-proxyworker": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "egg-graphql": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "egg-sequelize": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "egg-session": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "egg-validate": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "graphql": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "lodash": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "mysql2": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "egg-development-proxyworker": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "eslint-config-airbnb-base": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "husky": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "validate-commit-msg": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "webstorm-disable-index": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "stop": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "dev": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "test": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "cov": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "lint": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "ci": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "autod": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "commitmsg": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "url": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+    "license": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+    "strict": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "depth": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+    "env": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+    "level": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxAge": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js"
+    }
+  },
+  "coreMiddleware": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "port": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "responseTimeout": "/Users/huxiaohui/hooke/graphql-abc/node_modules/egg/config/config.default.js"
+  }
+}
